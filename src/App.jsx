@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import Perfil from './components/Perfil';
+import Perfil from './components/Perfil/Index';
 import Formulario from './components/Formulario';
 import ReposList from './components/ReposList/Index';
 
